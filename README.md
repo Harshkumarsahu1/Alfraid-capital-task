@@ -58,7 +58,7 @@ Set via one of:
 Example `terraform.tfvars`:
 
 ```hcl
-project_id = "YOUR_GCP_PROJECT_ID"
+project_id = "city-428608"
 region     = "asia-south1"
 zone       = "asia-south1-a"
 client_count = 2
